@@ -2,15 +2,16 @@
 The learning notes of SQL
 
 
-SQL is the foundamental article of the things in the new artical of 
+## Progresql Data
+
+### SQL visualization software
+
+### Connect to SQL
+
+### Query
 
 
-1. Transfer SQL dataset in different server
+### Import and Export
 
-2. Data Security Setting
+### Add, Delete, Insert
 
-3. SQL Query Syntax
-
-4. SQL management
-
-5. SQL interact with python
